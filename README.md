@@ -1,4 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sachinthaka Ayeshmantha</h1>
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<!-- NOTE: dark.svg / light.svg need to exist in a "main" branch repo named HunTrix007
+     (a special repo matching your username). Copy/recreate these SVGs there, or
+     swap this <picture> block for a plain banner image if you don't have them yet. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HunTrix007/HunTrix007/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HunTrix007/HunTrix007/main/light.svg">
+  <img alt="HunTrix007" src="https://raw.githubusercontent.com/HunTrix007/HunTrix007/main/light.svg">
+</picture>
+
+<!-- ===== GITHUB STATS ===== -->
+
+<div align="center">
+
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HunTrix007&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=HunTrix007&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="HunTrix007's streak" />
+</picture>
+
+<br/>
+
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=HunTrix007&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=HunTrix007&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="HunTrix007's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=HunTrix007&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=HunTrix007&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
+</div>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<!-- This requires the "Snake" GitHub Action set up on your HunTrix007/HunTrix007 repo,
+     generating an "output" branch with snake-dark.svg / snake-light.svg -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HunTrix007/HunTrix007/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HunTrix007/HunTrix007/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/HunTrix007/HunTrix007/output/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+
+<!-- Optional "projects" banner — same idea as the hero, needs a projects.svg
+     on a "projects" branch of HunTrix007/HunTrix007 -->
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/HunTrix007/HunTrix007/projects/projects.svg" alt="Projects" />
+</div>
+
+<!-- ===== SOCIAL BADGES ===== -->
+<!-- Update these href values with your own profile links -->
+<br/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+
+</div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- =================================== -->
+
+
+<!-- <h1 align="center">Hi 👋, I'm Sachinthaka Ayeshmantha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huntrix007&label=Profile%20views&color=0e75b6&style=flat" alt="huntrix007" /> </p>
@@ -13,11 +98,11 @@
 
 - 💬 Ask me about **react, nodejs and golang**
 
-- 📫 How to reach me **sachinthakaa86@gmail.com**
+- 📫 How to reach me **sachinthakaa86@gmail.com** -->
 
 <!--- - 📄 Know about my experiences [test link](test link) -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sachi002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachi002" height="30" width="40" /></a>
 </p>
@@ -30,3 +115,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huntrix007&show_icons=true&locale=en" alt="huntrix007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huntrix007&" alt="huntrix007" /></p>
+-->
